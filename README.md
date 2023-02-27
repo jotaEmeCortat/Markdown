@@ -245,7 +245,7 @@ To nest line items in an unordered list, indent the items four spaces or one tab
 
 You can optionally add a title after the URL in the parentheses.
 
-![markdown](https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg 'markdown logo')
+![markdown](https://geekytheory.com/content/images/2014/03/markdown_inte-1024x630.png 'markdown logo')
 
 ---
 
