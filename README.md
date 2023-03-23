@@ -314,6 +314,12 @@ Use [Duck Duck Go](https://duckduckgo.com).
 
 &nbsp;
 
+## **Anchor**
+```markdown
+Use [Duck Duck Go](https://duckduckgo.com).
+```
+> Use [Headings](#headings)
+
 ### **Automatic URL Linking**
 
 ```markdown
