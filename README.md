@@ -12,6 +12,7 @@
 - [Tables](#tables)
 - [Task Lists](#task-lists)
 - [Horizontal Rules](#horizontal-rules)
+- [Space](#space)
 
 ---
 
