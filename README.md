@@ -500,5 +500,11 @@ To create a task list, add dashes ( - ) and brackets with a space ( [ ] ) in fro
 To create a horizontal rule, use three or more asterisks (\*\*\*), dashes (---), or underscores (\_\_\_) on a line by themselves.
 
 ---
+&nbsp;
 
+## **Space**
+
+```markdown
+&nbsp;
+```
 ---
