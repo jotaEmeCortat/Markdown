@@ -126,6 +126,9 @@ The world is ~~flat~~ round.
 
 ## **Blockquotes**
 
+```markdown
+> Dorothy followed her through many rooms.
+```
 > Dorothy followed her through many rooms.
 
 &nbsp;
